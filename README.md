@@ -4,6 +4,7 @@ The jQuery plugin for equalizing the height or width of elements. [See it in act
 
 
 ## How to Use
+CDNJ: //cdnjs.cloudflare.com/ajax/libs/equalize.js/1.0.1/equalize.min.js
 
 Call the plugin on the parent of the elements to equalize their height.
 
